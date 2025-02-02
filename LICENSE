@@ -1,0 +1,4 @@
+### 4. **Deployment**:
+You can deploy the app to platforms like **Heroku** or **AWS** using the following steps:
+- **Heroku**: Follow the [Heroku deployment guide](https://devcenter.heroku.com/articles/django-app-configuration).
+- **AWS**: Use **Elastic Beanstalk** or **EC2** with **RDS** for deploying your Django app and PostgreSQL database.
